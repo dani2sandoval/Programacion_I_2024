@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desaf\u00EDos\\Parte2, Desaf\u00EDo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{360516A9-D7AB-46DF-A785-11F90780B799}|Parte2, Desaf\u00EDo2.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\desaf\u00EDos\\parte2, desaf\u00EDo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360516A9-D7AB-46DF-A785-11F90780B799}|Parte2, Desaf\u00EDo2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{360516A9-D7AB-46DF-A785-11F90780B799}|Parte2, Desaf\u00EDo2.csproj|C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desaf\u00EDos\\Parte2, Desaf\u00EDo2\\nombreypuntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{360516A9-D7AB-46DF-A785-11F90780B799}|Parte2, Desaf\u00EDo2.csproj|solutionrelative:nombreypuntaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NombreyPuntaje.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desaf\u00EDos\\Parte2, Desaf\u00EDo2\\NombreyPuntaje.cs",
+              "RelativeDocumentMoniker": "NombreyPuntaje.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desaf\u00EDos\\Parte2, Desaf\u00EDo2\\NombreyPuntaje.cs",
+              "RelativeToolTip": "NombreyPuntaje.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:19:47.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desaf\u00EDos\\Parte2, Desaf\u00EDo2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desaf\u00EDos\\Parte2, Desaf\u00EDo2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAACOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T22:19:03.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
