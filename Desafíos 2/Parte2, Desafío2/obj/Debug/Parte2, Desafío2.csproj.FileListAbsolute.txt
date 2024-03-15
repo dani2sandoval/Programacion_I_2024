@@ -1,0 +1,7 @@
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafíos 2\Parte2, Desafío2\obj\Debug\Parte2, Desafío2.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafíos 2\Parte2, Desafío2\obj\Debug\Parte2, Desafío2.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafíos 2\Parte2, Desafío2\bin\Debug\Parte2, Desafío2.exe.config
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafíos 2\Parte2, Desafío2\bin\Debug\Parte2, Desafío2.exe
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafíos 2\Parte2, Desafío2\bin\Debug\Parte2, Desafío2.pdb
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafíos 2\Parte2, Desafío2\obj\Debug\Parte2, Desafío2.exe
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafíos 2\Parte2, Desafío2\obj\Debug\Parte2, Desafío2.pdb
