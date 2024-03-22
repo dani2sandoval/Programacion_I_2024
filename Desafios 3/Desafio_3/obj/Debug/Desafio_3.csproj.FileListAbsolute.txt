@@ -1,0 +1,7 @@
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios 3\Desafio_3\bin\Debug\Desafio_3.exe.config
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios 3\Desafio_3\bin\Debug\Desafio_3.exe
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios 3\Desafio_3\bin\Debug\Desafio_3.pdb
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios 3\Desafio_3\obj\Debug\Desafio_3.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios 3\Desafio_3\obj\Debug\Desafio_3.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios 3\Desafio_3\obj\Debug\Desafio_3.exe
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios 3\Desafio_3\obj\Debug\Desafio_3.pdb
