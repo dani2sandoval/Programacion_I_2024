@@ -1,0 +1,7 @@
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios_Sesion8\bin\Debug\Desafios_Sesion8.exe.config
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios_Sesion8\bin\Debug\Desafios_Sesion8.exe
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios_Sesion8\bin\Debug\Desafios_Sesion8.pdb
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios_Sesion8\obj\Debug\Desafios_Sesion8.csproj.AssemblyReference.cache
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios_Sesion8\obj\Debug\Desafios_Sesion8.csproj.CoreCompileInputs.cache
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios_Sesion8\obj\Debug\Desafios_Sesion8.exe
+C:\Users\dani_\Documents\PROGRAMACION_I_2024\Desafios_Sesion8\obj\Debug\Desafios_Sesion8.pdb
