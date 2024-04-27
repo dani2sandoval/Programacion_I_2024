@@ -1,32 +1,25 @@
 ﻿<Window x:Class="SegundoParcial.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Calculator" Height="400" Width="300">
+        Title="Calculadora" Height="300" Width="400">
+    
     <Grid>
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
-            <TextBlock Text="Calculator" FontSize="20" FontWeight="Bold" Margin="0 0 0 20"/>
-
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="cantidad 1:" VerticalAlignment="Center"/>
-                <TextBox x:Name="txtcantidad1" Width="100" Margin="10 0"/>
-            </StackPanel>
-
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="cantidad 2:" VerticalAlignment="Center"/>
-                <TextBox x:Name="txtcantidad2" Width="100" Margin="10 0"/>
-            </StackPanel>
-
-            <StackPanel Orientation="Horizontal">
-                <TextBlock Text="Operacion:" VerticalAlignment="Center"/>
-                <ComboBox x:Name="cmboperation" Width="100" Margin="10 0">
-                    <ComboBoxItem Content="+"/>
-                    <ComboBoxItem Content="-"/>
-                    <ComboBoxItem Content="*"/>
-                    <ComboBoxItem Content="/"/>
-                </ComboBox>
-            </StackPanel>
-
-            <Button Content="Calculate" Click="Button_Click" Width="100" Margin="0 20"/>
+            
+            <TextBox x:Name="txtcantidad1" Width="100" Margin="5"/>
+            <TextBox x:Name="txtcantidad2" Width="100" Margin="5"/>
+            <ComboBox x:Name="cmboperacion" Width="100" Margin="5">
+                <ComboBoxItem Content="+"/>
+                <ComboBoxItem Content="-"/>
+                <ComboBoxItem Content="*"/>
+                <ComboBoxItem Content="/"/>
+                <ComboBoxItem Content="potencia"/>
+                <ComboBoxItem Content="raiz"/>
+                <ComboBoxItem Content="seno"/>
+                <ComboBoxItem Content="coseno"/>
+                <ComboBoxItem Content="tangente"/>
+            </ComboBox>
+            <Button Content="Calcular" Click="Button_Click" Width="100" Margin="5"/>
         </StackPanel>
     </Grid>
 </Window>

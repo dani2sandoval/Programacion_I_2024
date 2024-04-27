@@ -17,94 +17,73 @@ using static System.Net.Mime.MediaTypeNames;
 
 namespace SegundoParcial
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    using System;
-    using System.Windows;
-    using System.Windows.Controls;
-
-    namespace SegundoParcial
+    public partial class MainWindow : Window
     {
-        
-
-        public partial class MainWindow : Window
+        public MainWindow()
         {
-            public MainWindow()
-            {
-                InitializeComponent();
-
-            }
-
-            
-
-            private void Button_Click(object sender, RoutedEventArgs e)
-            {
-
-                double cantidad1 = Convert.ToDouble(txtcantidad1.Text);
-                double cantidad2 = Convert.ToDouble(txtcantidad2.Text);
-                string operacion = ((ComboBoxItem)cmboperacion.SelectedItem).Content.ToString();
-
-
-                Calculadora calculadora;
-                if (operacion == "+" || operacion == "-" || operacion == "*" || operacion == "/")
-                {
-                    calculadora = new Calculadora();
-                }
-                else
-                {
-                    calculadora = new CalculadoraCientifica();
-                }
-
-
-                double resultado = calculadora.calcular(cantidad1, cantidad2, operacion);
-                MessageBox.Show("El resultado es: " + resultado);
-            }
+            InitializeComponent();
         }
 
-        public class Calculadora
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            public double calcular(double cantidad1, double cantidad2, string operacion)
+            double cantidad1 = Convert.ToDouble(txtcantidad1.Text);
+            double cantidad2 = Convert.ToDouble(txtcantidad2.Text);
+            string operacion = ((ComboBoxItem)cmboperacion.SelectedItem).Content.ToString();
+
+            Calculadora calculadora;
+            if (operacion == "+" || operacion == "-" || operacion == "*" || operacion == "/")
             {
-                switch (operacion)
-                {
-                    case "+":
-                        return cantidad1 + cantidad2;
-                    case "-":
-                        return cantidad1 - cantidad2;
-                    case "*":
-                        return cantidad1 * cantidad2;
-                    case "/":
-                        return cantidad1 / cantidad2;
-                    default:
-                        throw new ArgumentException("Operación no válida");
-                }
+                calculadora = new Calculadora();
+            }
+            else
+            {
+                calculadora = new CalculadoraCientifica();
+            }
+
+            double resultado = Calculadora.calcular(cantidad1, cantidad2, operacion);
+            MessageBox.Show("El resultado es: " + resultado);
+        }
+    }
+
+    public class Calculadora
+    {
+        public static double calcular(double cantidad1, double cantidad2, string operacion)
+        {
+            switch (operacion)
+            {
+                case "+":
+                    return cantidad1 + cantidad2;
+                case "-":
+                    return cantidad1 - cantidad2;
+                case "*":
+                    return cantidad1 * cantidad2;
+                case "/":
+                    return cantidad1 / cantidad2;
+                default:
+                    throw new ArgumentException("Operación no válida");
             }
         }
+    }
 
-        public class CalculadoraCientifica : Calculadora
+    public class CalculadoraCientifica : Calculadora
+    {
+        public static new double calcular(double cantidad1, double cantidad2, string operacion)
         {
-            public new double Calcular(double cantidad1, double cantidad2, string operacion)
+            switch (operacion)
             {
-                switch (operacion)
-                {
-                    case "potencia":
-                        return Math.Pow(cantidad1, cantidad2);
-                    case "raiz":
-                        return Math.Sqrt(cantidad1);
-                    case "seno":
-                        return Math.Sin(cantidad1);
-                    case "coseno":
-                        return Math.Cos(cantidad1);
-                    case "tangente":
-                        return Math.Tan(cantidad1);
-                    default:
-                        
-                        return base.calcular(cantidad1, cantidad2, operacion);
-                }
+                case "potencia":
+                    return Math.Pow(cantidad1, cantidad2);
+                case "raiz":
+                    return Math.Sqrt(cantidad1);
+                case "seno":
+                    return Math.Sin(cantidad1);
+                case "coseno":
+                    return Math.Cos(cantidad1);
+                case "tangente":
+                    return Math.Tan(cantidad1);
+                default:
+                    return Calculadora.calcular(cantidad1, cantidad2, operacion);
             }
         }
     }
 }
-
-
