@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desafios_Sesion7\\Desafio_1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desafios_Sesion7\\Desafio_1\\calculadora2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|solutionrelative:calculadora2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\desafios_sesion7\\desafio_1\\calculadora1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|solutionrelative:calculadora1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\desafios_sesion7\\desafio_1\\calculadora2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|solutionrelative:calculadora2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\desafios_sesion7\\desafio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desafios_Sesion7\\Desafio_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13C7CECA-92FE-4C70-9913-ECC5BD7C4259}|Desafio_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,26 +30,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "calculadora2.cs",
               "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desafios_Sesion7\\Desafio_1\\calculadora2.cs",
               "RelativeDocumentMoniker": "calculadora2.cs",
               "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desafios_Sesion7\\Desafio_1\\calculadora2.cs",
               "RelativeToolTip": "calculadora2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T00:17:25.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "calculadora1.cs",
               "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desafios_Sesion7\\Desafio_1\\calculadora1.cs",
               "RelativeDocumentMoniker": "calculadora1.cs",
               "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Desafios_Sesion7\\Desafio_1\\calculadora1.cs",
               "RelativeToolTip": "calculadora1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T00:15:20.733Z",
               "EditorCaption": ""
@@ -64,8 +64,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T00:14:49.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T00:14:49.956Z"
             }
           ]
         }
