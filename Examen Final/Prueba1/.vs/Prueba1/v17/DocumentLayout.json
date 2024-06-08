@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\insertproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\insertproducto.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\ventanas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\ventanas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\productos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\productos.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\insertproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\insertproducto.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\informaciondestacada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\informaciondestacada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\cliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\cliente2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\cliente1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\cliente1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\cliente1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\cliente1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\cliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\cliente.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|c:\\users\\dani_\\documents\\programacion_i_2024\\examen final\\prueba1\\ventanas\\productos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{900C7411-3254-4D3E-A389-991BC4CA31AA}|Ventanas\\Ventanas.csproj|solutionrelative:ventanas\\productos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente2.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente2.cs",
+              "RelativeDocumentMoniker": "Ventanas\\Cliente2.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente2.cs",
+              "RelativeToolTip": "Ventanas\\Cliente2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:45:15.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertProducto.xaml",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\InsertProducto.xaml",
+              "RelativeDocumentMoniker": "Ventanas\\InsertProducto.xaml",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\InsertProducto.xaml",
+              "RelativeToolTip": "Ventanas\\InsertProducto.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:40:30.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cliente.xaml",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente.xaml",
+              "RelativeDocumentMoniker": "Ventanas\\Cliente.xaml",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente.xaml",
+              "RelativeToolTip": "Ventanas\\Cliente.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:33:39.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\DataAccess.cs",
+              "RelativeDocumentMoniker": "Ventanas\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\DataAccess.cs",
+              "RelativeToolTip": "Ventanas\\DataAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:04:57.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente.cs",
+              "RelativeDocumentMoniker": "Ventanas\\Cliente.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente.cs",
+              "RelativeToolTip": "Ventanas\\Cliente.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:34:01.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Ventanas\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Ventanas\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T04:03:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente1.xaml.cs",
+              "RelativeDocumentMoniker": "Ventanas\\Cliente1.xaml.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente1.xaml.cs",
+              "RelativeToolTip": "Ventanas\\Cliente1.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwC0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:58:21.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Productos.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Productos.xaml.cs",
+              "RelativeDocumentMoniker": "Ventanas\\Productos.xaml.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Productos.xaml.cs",
+              "RelativeToolTip": "Ventanas\\Productos.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:41:06.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertProducto.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\InsertProducto.xaml.cs",
+              "RelativeDocumentMoniker": "Ventanas\\InsertProducto.xaml.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\InsertProducto.xaml.cs",
+              "RelativeToolTip": "Ventanas\\InsertProducto.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T14:11:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ventanas.csproj",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Ventanas.csproj",
+              "RelativeDocumentMoniker": "Ventanas\\Ventanas.csproj",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Ventanas.csproj",
+              "RelativeToolTip": "Ventanas\\Ventanas.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-08T16:45:27.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformacionDestacada.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\InformacionDestacada.cs",
+              "RelativeDocumentMoniker": "Ventanas\\InformacionDestacada.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\InformacionDestacada.cs",
+              "RelativeToolTip": "Ventanas\\InformacionDestacada.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T16:52:24.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Ventanas\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\AssemblyInfo.cs",
+              "RelativeToolTip": "Ventanas\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:33:38.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente1.xaml",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente1.xaml",
+              "RelativeDocumentMoniker": "Ventanas\\Cliente1.xaml",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Cliente1.xaml",
+              "RelativeToolTip": "Ventanas\\Cliente1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:34:12.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Ventanas\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\MainWindow.xaml",
+              "RelativeToolTip": "Ventanas\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-06T04:03:28.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Productos.xaml",
+              "DocumentMoniker": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Productos.xaml",
+              "RelativeDocumentMoniker": "Ventanas\\Productos.xaml",
+              "ToolTip": "C:\\Users\\dani_\\Documents\\PROGRAMACION_I_2024\\Examen Final\\Prueba1\\Ventanas\\Productos.xaml",
+              "RelativeToolTip": "Ventanas\\Productos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-08T15:40:43.426Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+CREATE DATABASE;
+
+USE PRODUCTO;
+
+GO
+CREATE TABLE Usuario (
+    Id INT PRIMARY KEY,
+    Nombre NVARCHAR(100),
+    Direccion NVARCHAR(200),
+    Telefono NVARCHAR(20),
+    Email NVARCHAR(100)
+);
+
+CREATE TABLE Productos (
+    Id INT PRIMARY KEY,
+    Nombre NVARCHAR(100),
+    Precio DECIMAL(18, 2)
+);
+
+
+
+
+
+INSERT INTO Usuario (Id, Nombre, Direccion, Telefono, Email)
+VALUES (1,'Melvin Sandoval', 'Jalapa', '123456789', 'melvin@example.com'),
+       (2, 'Daniel Sandoval', 'Monjas', '987654321', 'daniel@example.com');
+
+INSERT INTO Productos (Id,Nombre, Precio)
+VALUES (1,'Producto 1', 175.50),
+       (2,'Producto 2', 250.15),
+       (3,'Producto 3', 15.75),
+	   (4, 'Producto 4', 50.25);
+
+
+-- Consulta solo a la tabla Usuario
+SELECT Id AS UsuarioId,
+       Nombre AS UsuarioNombre,
+       Direccion AS UsuarioDireccion,
+       Telefono AS UsuarioTelefono,
+       Email AS UsuarioEmail
+FROM Usuario;
+
+-- Consulta solo a la tabla Productos
+SELECT Id AS ProductoId,
+       Nombre AS ProductoNombre,
+       Precio AS ProductoPrecio
+FROM Productos;
